@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    background-image: url("../img/old-black-background.jpg");
+    color: white;
+    transition: .2s;
+    min-width: 660px;
+}
+
+
+
+
+
+
